@@ -1,0 +1,7 @@
+  Action: Run Enclave
+  Subactions:
+    Failed to handle all enclave process replies
+    Failed to connect to 1 enclave processes
+  Root error file: src/enclave_proc_comm.rs
+  Root error line: 358
+  Version: 1.2.1
